@@ -3,6 +3,7 @@ ansible.cfg
 hosts
 project-var
 
+
 # Ansible runtime and backups
 *.original
 *.tmp
